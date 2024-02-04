@@ -1,4 +1,4 @@
-# Sam-Scraper
+# Sam Scraper
 
 ## Introduction
 
